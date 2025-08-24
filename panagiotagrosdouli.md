@@ -30,7 +30,8 @@
 
 ---
 
-## 📊 GitHub Stats (A+++ Version)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Lily-Evan&theme=react-dark&hide_border=true)
+
 
 ### 🔹 Quick Overview
 | Repositories | Followers | Following |
